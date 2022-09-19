@@ -1,0 +1,20 @@
+{
+  "api": {
+      "baseUrl": "https://wilcityapp.com/",
+      "timeout": 30000
+  },
+  "colorPrimary": "#d81340",
+  "appleColor": "white",
+  "loginScreenStartApp": {
+      "enable": false,
+      "skipButtonText": "Skip",
+      "title": "WilCity Application",
+      "text": "Build any type of directory with the fastest and easiest for WordPress"
+  },
+  "googleLogin": {
+      "usesGoogleSignIn": true,
+      "webClientId": "97575706251-524jt9fifcn26pdq72o54feh0nic5u4m.apps.googleusercontent.com",
+      "iosStandaloneAppClientId": "194102947688-91p6h47dm684pj1nupvks7hcu9mb5ffj.apps.googleusercontent.com",
+      "androidStandaloneAppClientId": "194102947688-43umicsfbdht14vf7bhfq3ht0a5jd3ol.apps.googleusercontent.com"
+  }
+}
